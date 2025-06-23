@@ -1,0 +1,10 @@
+- Minimal HTML / JS site
+- That has the following button which map to the solidity smart contract
+  - Connect Wallet
+    - Metamas 내부의 RPC URL 에 접근하는 것것
+  - Buy Coffee
+    - Button to buy coffee
+    - Call a function on a smart contract
+    - Have a test blockchain that we can call?
+  - Get Balance
+  - Withdraw
